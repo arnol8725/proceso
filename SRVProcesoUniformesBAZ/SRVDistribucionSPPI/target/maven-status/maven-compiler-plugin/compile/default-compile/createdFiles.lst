@@ -1,0 +1,6 @@
+com\uniformes\distribucionSPPI\DTO\PendientesSPPI.class
+com\uniformes\distribucionSPPI\job\DistribucionSPPIJob.class
+com\uniformes\distribucionSPPI\DAO\DistribucionSPPIDAO.class
+com\uniformes\distribucionSPPI\DAO\FabricaDAOSPPI.class
+com\uniformes\distribucionSPPI\config\ConfigSPPI.class
+com\uniformes\distribucionSPPI\negocio\DsitribucionSPPINegocio.class

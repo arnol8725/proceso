@@ -1,0 +1,6 @@
+com\uniformes\iptienda\DAO\FabricaDAO.class
+com\uniformes\iptienda\config\ConfigIPTiendas.class
+com\uniformes\iptienda\DTO\Remision.class
+com\uniformes\iptienda\negocio\IPTiendasNegocio.class
+com\uniformes\iptienda\DAO\IPTiendasDAO.class
+com\uniformes\iptienda\job\IPTiendasJob.class

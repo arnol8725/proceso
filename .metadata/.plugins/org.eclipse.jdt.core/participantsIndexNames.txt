@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4232366490.index
+\SRVUniProcesosBAZ\src\main\java
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\802860714.index
+\SRVUniProcesosBAZ\src\main\java
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2153072288.index
+\SRVProcesoUniformesBAZ\src\main\java
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\457763967.index
+\SRVUniProcesosBAZ\src\main\java
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3605091307.index
+\SRVProcesoUniformesBAZ\src\main\java
+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3437740449.index
+\SRVProcesoUniformesBAZ\src\main\java

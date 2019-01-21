@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\Users\kortizl\Documents\workspace-sts-3.9.6.RELEASE\uniformes baz procesos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+740160183.index
+2470206143.index
+712104485.index
+1684074589.index
+4067410301.index
+2268317725.index

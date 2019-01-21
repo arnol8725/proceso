@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SRVUniProcesosBAZ"/>
+<aop-project name="SRVDistribucionSPPI"/>
+<aop-project name="SRVIPTiendas"/>
+<aop-project name="SRVProcesoUniformesBAZ"/>
+</aop-reference-model>

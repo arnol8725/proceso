@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.negocio.IPTiendasNegocio"/>
+<fullyQualifiedTypeName name="com.uniformes.MasterConfig"/>
+<fullyQualifiedTypeName name="org.quartz.CronScheduleBuilder"/>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.job.IPTiendasJob"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+<fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.config.ConfigIPTiendas"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.DAO.FabricaDAO"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="oracle.jdbc.OracleTypes"/>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.DTO.Remision"/>
+<fullyQualifiedTypeName name="com.uniformes.iptienda.DAO.IPTiendasDAO"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.uniformes.SRVUniProcesosBAZ"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="com.uniformes.distribucionSPPI.negocio.DsitribucionSPPINegocio"/>
+<fullyQualifiedTypeName name="com.uniformes.distribucionSPPI.config.ConfigSPPI"/>
+<fullyQualifiedTypeName name="com.uniformes.distribucionSPPI.DAO.DistribucionSPPIDAO"/>
+<fullyQualifiedTypeName name="com.uniformes.distribucionSPPI.DTO.PendientesSPPI"/>
+</qualifiedTypeNameHistroy>
